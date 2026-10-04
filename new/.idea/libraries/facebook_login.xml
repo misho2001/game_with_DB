@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="facebook_login">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fb_withDB_v2/out/artifacts/facebook_login_jar/facebook_login.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
